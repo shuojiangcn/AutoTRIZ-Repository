@@ -4,9 +4,7 @@
 
 Please visit www.autotriz.ai for the test use of AutoTRIZ.
 
-This repo contains the following materials: 
-- The fixed Knolwedge Base of AutoTRIZ;
-- Backend Prompts of AutoTRIZ;
+This repo contains the following materials:
 - The TRIZ Case Base: TRIZ case studies collected from textbooks.
 
 ### Related Publications
