@@ -4,3 +4,4 @@ From seven TRIZ-related textbooks, we collected ten initial cases for the evalua
 
 ### Case 1
 
+s 
