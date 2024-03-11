@@ -2,7 +2,7 @@
 
 ### Artificial Ideation with TRIZ and Large Language Models
 
-[www.autotriz.ai]
+Please visit www.autotriz.ai for the test use of AutoTRIZ.
 
 This repo contains the following materials: 
 - The fixed Knolwedge Base of AutoTRIZ;
