@@ -6,7 +6,7 @@ From seven TRIZ-related textbooks, we collected ten initial cases for the evalua
 
 ### Case 1
 
-- **Reference:** Michael A. Orloff, Modern TRIZ, Page 187.
+- **Reference:** Orloff, M. A., 2012, Modern TRIZ: A Practical Course with Easytriz Technology (First Edition), Springer Science & Business Media, Page 187.
 - **Problem Description:** To prevent water erosion of river banks, they can be strengthened with stones. However, water gradually washes sand and soil from under the stones, and the shoreline collapses. What can we do?
 - **Improving Feature:** (32, 'Ease of manufacture')
 - **Worsening Feature:** (30, 'External harm affects the object')
@@ -23,7 +23,7 @@ Solution 1:
 
 ### Case 2
 
-- **Reference:** Michael A. Orloff, Modern TRIZ, Page 368.
+- **Reference:** Orloff, M. A., 2012, Modern TRIZ: A Practical Course with Easytriz Technology (First Edition), Springer Science & Business Media, Page 368.
 - **Problem Description:** Any two-wheel scooter or bicycle remains stable only when in motion. In other words, these devices are "dynamically stable". However, when they stop, they fall down on their side. There are known systems that can stabilize spatial position using liquid equilibrium detectors and gyroscopic stabilizers. However, there is "nothing to stabilize" in a bicycle transversely – the only thing we can do is install a sophisticated "scales-like" system so as to make it possible, by constantly balancing, to keep the mass center of the system strictly within the support area. But that seems too complex and completely unjustified. Can we build a two-wheel vehicle which would be able to rapidly move along, carrying its "pilot" or "passenger" (whatever turns you on!), and keep upright without falling when forced to stop?
 - **Improving Feature:** (27, 'Reliability')
 - **Worsening Feature:** (36, 'Device complexity')
@@ -40,7 +40,7 @@ Solution 1:
 
 ### Case 3
 
-- **Reference:** Michael A. Orloff, Inventive Thinking through TRIZ, Page 109.
+- **Reference:** Orloff, M. A., 2006, Inventive Thinking through TRIZ: A Practical Guide (Second Edition), Springer Berlin, Heidelberg, Page 109.
 - **Problem Description:** Different special training devices were set up at a fitness club. Every device takes up space, especially those designed for training in a lying position. Devices for training while standing take up less space. Space should be saved so that more guests can work out on the stations. Can you design a training station or machine to solve this problem?
 - **Improving Feature:** (39, 'Productivity')
 - **Worsening Feature:** (6, 'Area of stationary object')
@@ -57,7 +57,7 @@ Solution 1:
 
 ### Case 4
 
-- **Reference:** Michael A. Orloff, Inventive Thinking through TRIZ, Page 143.
+- **Reference:** Orloff, M. A., 2006, Inventive Thinking through TRIZ: A Practical Guide (Second Edition), Springer Berlin, Heidelberg, Page 143.
 - **Problem Description:** Extinguishing fires at oil and gas drilling sites is a major environmental disaster, made difficult by the extreme heat and limited options for action, often requiring the use of tanks and bombs to cover the well with dirt. Approaching the well with other methods is impossible due to the scorching temperatures in the surrounding area, causing fires to last for months, burning large amounts of material and causing significant environmental harm by contaminating nearby ground and water with oil products.
 - **Improving Feature:** (33, 'Ease of operation')
 - **Worsening Feature:** (30, 'External harm affects the object')
@@ -74,7 +74,7 @@ Solution 1:
 
 ### Case 5
 
-- **Reference:** Peter R.N. Childs, Mechanical Design Engineering Handbook (Second Edition), Page 131.
+- **Reference:** Childs, P., 2013, Mechanical Design Engineering Handbook (Second Edition), Butterworth-Heinemann, Page 131.
 - **Problem Description:** If the blade is made heavier, it can strike a more effective blow with better splitting power, but the quantity of material used increases making the device more awkward to handle.
 - **Improving Feature:** (10, 'Force')
 - **Worsening Feature:** (26, 'Quantity of substance/the matter')
@@ -91,7 +91,7 @@ Solution 1:
 
 ### Case 6
 
-- **Reference:** Peter R.N. Childs, Mechanical Design Engineering Handbook (Second Edition), Page 136.
+- **Reference:** Childs, P., 2013, Mechanical Design Engineering Handbook (Second Edition), Butterworth-Heinemann, Page 136.
 - **Problem Description:** In competitive high diving, it is important for the diver to engage in much practice but repetitive diving involves multiple impacts between the diver and the water potentially leading to injuries.
 - **Improving Feature:** (9, 'Speed')
 - **Worsening Feature:** (27, 'Reliability')
@@ -108,7 +108,7 @@ Solution 1:
 
 ### Case 7
 
-- **Reference:** Semyon D. Savransky, Engineering of creativity introduction to TRIZ methodology of inventive problem solving, Page 229.
+- **Reference:** Savransky, S. D., 2000, Engineering of Creativity: Introduction to TRIZ Methodology of Inventive Problem Solving (First Edition), CRC press, Page 229.
 - **Problem Description:** We are faced with a challenge involving the pneumatic transportation of metal shots through a system of plastic piping originally intended for plastic pellets. The transition to metal shots, despite their advantages for production purposes, has led to significant wear and damage, particularly at the pipe's elbows. This issue arises from the incompatibility between the metal shots and the existing plastic elbow design. The task at hand is to identify and implement a solution that resolves this conflict, ensuring the system's durability and effectiveness for transporting metal shots.
 - **Improving Feature:** (9, 'Speed')
 - **Worsening Feature:** (13, 'Stability of the object's composition')
@@ -125,7 +125,7 @@ Solution 1:
 
 ### Case 8
 
-- **Reference:** David Silverstein, Insourcing Innovation How to Achieve Competitive Excellence Using TRIZ, Page 82.
+- **Reference:** Silverstein, D., DeCarlo, N., and Slocum, M., 2007, Insourcing Innovation: How to Achieve Competitive Excellence Using TRIZ (First Edition), CRC Press, Page 82.
 - **Problem Description:** Can wall needs to be cheap enough to mass produce; at the same time the layering of can materials is complex.
 - **Improving Feature:** (32, 'Ease of manufacture')
 - **Worsening Feature:** (36, 'Device complexity')
@@ -142,7 +142,7 @@ Solution 1:
 
 ### Case 9
 
-- **Reference:** Victor Fey, Innovation on Demand New Product Development Using TRIZ, Page 193.
+- **Reference:** Fey, V., and Rivin, E., 2005, Innovation on Demand: New Product Development Using TRIZ (First Edition), Cambridge University Press, Page 193.
 - **Problem Description:** Thermal stresses in the skin structure of aircraft are not wanted. To offset thermal deformations, small spaces are intentionally left between the panels of the aircraft's skin. To make the surface aerodynamically sleek, gaps are filled with a sealant made from polymer (in paste form). The process of applying this paste to fill the gaps requires a lot of labor and takes a lot of time.
 - **Improving Feature:** (33, 'Ease of operation')
 - **Worsening Feature:** (22, 'Loss of Energy')
@@ -159,7 +159,7 @@ Solution 1:
 
 ### Case 10
 
-- **Reference:** Genrich Altshuller, Innovation Algorithm, Page 279
+- **Reference:** Altshuller, G. S., 1999, The Innovation Algorithm: TRIZ, Systematic Innovation and Technical Creativity (First Edition), Technical innovation center Inc., Page 279
 - **Problem Description:** It is necessary to move cargo in the winter through waterways that can be covered by as much as 10 feet of ice. Traditionally, icebreakers have been used to open a channel through the ice for a convoy of ships to follow. The icebreaker can only advance at a speed of 2 km/hr. We need to increase this rate to at least 6 km/hr, although faster would be even more desirable. Alternative means of transportation are not acceptable. Our investigation shows that the icebreaker has the most efficient engine available in industry at this time.
 - **Improving Feature:** (9, 'Speed')
 - **Worsening Feature:** (21, 'Power')
