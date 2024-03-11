@@ -1,0 +1,1 @@
+# AutoTRIZ-DETC24
