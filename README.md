@@ -1,6 +1,6 @@
 # AutoTRIZ
 
-#### Artificial Ideation with TRIZ and Large Language Models
+### Artificial Ideation with TRIZ and Large Language Models
 
 [www.autotriz.ai]
 
@@ -9,5 +9,5 @@ This repo contains the following materials:
 - Backend Prompts of AutoTRIZ;
 - The TRIZ Case Base: TRIZ case studies collected from textbooks;
 
-#### Related Publications
+### Related Publications
 Paper will release soon!
