@@ -8,4 +8,4 @@ This repo contains the following supplementary materials:
 ### Related Publications
 The paper have been accepted to DETC24. Check out this [preprint version](https://arxiv.org/abs/2403.13002).
 
-- Jiang, Shuo, and Jianxi Luo. "AutoTRIZ: Artificial Ideation with TRIZ and Large Language Models." arXiv preprint arXiv:2403.13002 (2024).
+> Jiang, Shuo, and Jianxi Luo. AutoTRIZ: Artificial Ideation with TRIZ and Large Language Models. In ASME IDETC/CIE - Design Automation Conference (DAC), August 25-28, 2024, Washington, DC, USA.
