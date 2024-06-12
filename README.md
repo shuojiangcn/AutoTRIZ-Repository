@@ -12,10 +12,10 @@ If you find our work helpful, please consider citing:
 
 ```
 @article{jiang2024autotriz,
-title={AutoTRIZ: Artificial Ideation with TRIZ and Large Language Models},
-author={Jiang, Shuo and Luo, Jianxi},
-journal={ASME IDETC/CIE - Design Automation Conference (DAC), August 25-28, 2024, Washington, DC, USA.},
-year={2024}
+  title={AutoTRIZ: Artificial Ideation with TRIZ and Large Language Models},
+  author={Jiang, Shuo and Luo, Jianxi},
+  journal={arXiv preprint arXiv:2403.13002},
+  year={2024}
 }
 ```
 
