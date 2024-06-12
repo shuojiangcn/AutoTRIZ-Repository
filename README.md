@@ -7,6 +7,7 @@ This repo contains the following supplementary materials:
 
 ### Citation
 The paper has been accepted to [IDETC-CIE2024](https://event.asme.org/IDETC-CIE). Check out this [preprint version](https://arxiv.org/abs/2403.13002).
+
 If you find our work helpful, please consider citing:
 
 ```
