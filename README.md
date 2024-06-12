@@ -8,6 +8,7 @@ This repo contains the following supplementary materials:
 ### Related Publications
 The paper has been accepted to DETC24. Check out this [preprint version](https://arxiv.org/abs/2403.13002).
 If you find our work helpful, please consider citing:
+
 @article{jiang2024autotriz,
 title={AutoTRIZ: Artificial Ideation with TRIZ and Large Language Models},
 author={Jiang, Shuo and Luo, Jianxi},
