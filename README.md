@@ -6,9 +6,7 @@ This repo contains the following supplementary materials:
 - [The TRIZ Case Base](https://github.com/shuojiangcn/AutoTRIZ-DETC24/blob/main/casebase/casebase.md): TRIZ case studies collected from textbooks.
 
 ### Citation
-The paper has been accepted to [IDETC-CIE2024](https://event.asme.org/IDETC-CIE). Check out this [preprint version](https://arxiv.org/abs/2403.13002).
-
-If you find our work inspiring, please consider citing:
+Check out this [preprint version](https://arxiv.org/abs/2403.13002). If you find our work inspiring, please consider citing:
 
 ```
 @article{jiang2024autotriz,
